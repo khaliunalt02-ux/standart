@@ -1,0 +1,29 @@
+# Том файлуудыг GitHub руу оруулахгүй
+web.zip
+uds.tar
+ssl/
+
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# PHPStorm / JetBrains
+.idea/
+
+# Node (хэрвээ байгаа бол)
+node_modules/
+
+# Composer
+/vendor/
+
+# Хэрэггүй кэшүүд
+*.log
+*.cache
+*.tmp
+
+# OS generated files
+.DS_Store
